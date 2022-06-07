@@ -6,6 +6,7 @@ Aquesta pràctica s'ha realitzat sota el context de l'assignatura Tipologia i ci
 En el nostre cas, es treballarà amb un datase que conté dades extretes de la base de dades de Clevelant Clinic Foundation amb l’objectiu de poder determinar si el pacient té més o menys risc de patir un atac de cor.
 
 Aquest dataset es pot trobar amb la següent URL:
+
 ‘https://www.kaggle.com/datasets/nareshbhat/health-care-data-set-on-heart-attack-possibility’
 
 # Membres del grup
