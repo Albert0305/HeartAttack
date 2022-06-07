@@ -19,4 +19,4 @@ Fitxer netejat: Heart_Clean.csv
 
 Codi generat: M2.951-Practica_2_codi.RMD
 
-PDF amb respostes: M2.951-Practica_2_respostes
+PDF amb respostes: M2.951-Practica_2_respostes.pdf
