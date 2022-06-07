@@ -14,6 +14,9 @@ La pràctica ha estat realitzada per l'Albert Estadella Valls i l'Àngels Calvet
 # Contingut
 
 Fitxer inicial: heart.csv
+
 Fitxer netejat: Heart_Clean.csv
+
 Codi generat: M2.951-Practica_2_codi.RMD
+
 PDF amb respostes: M2.951-Practica_2_respostes
